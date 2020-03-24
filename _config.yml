@@ -1,0 +1,34 @@
+title: Jonathan Zamora
+email: jonzamora18@gmail.com
+description: >-
+  Welcome to Jonathan Zamora's Personal Website!
+baseurl: "personal_site"
+url: "http://jonzamora.dev"
+twitter_username: _jonzamora
+github_username:  jonzamora18
+
+# Build settings
+# theme: researcher
+remote_theme: ankitsultana/researcher@gem 
+plugins:
+  - jekyll-feed
+
+
+markdown: kramdown
+ins_logo: "./code.gif"
+
+footer: yes
+footer_url: "https://jonzamora.dev"
+footer_text: "Page design by Jonathan Zamora"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "personal_site"
+ - name: "Resume"
+   link: "jonathan_zamora_cs_resume.pdf"
+ - name: "Contact"
+   link: "contact"
