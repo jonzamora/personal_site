@@ -1,10 +1,10 @@
 title: Jonathan Zamora
 url: "https://jonzamora.dev"
-baseurl: "/about"
-markdown: kramdown
+baseurl: "/about/"
 
 # Build settings
 remote_theme: ankitsultana/researcher@gem 
+markdown: kramdown
 ins_logo: "./code.gif"
 
 footer: yes
