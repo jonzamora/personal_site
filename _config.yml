@@ -1,6 +1,6 @@
 title: Jonathan Zamora
 url: "https://jonzamora.dev"
-baseurl: "/about/"
+baseurl: "/about"
 
 # Build settings
 remote_theme: ankitsultana/researcher@gem 
