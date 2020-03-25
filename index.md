@@ -12,7 +12,7 @@ Hello! I am a second-year student pursuing a *[B.S. in Computer Science]* and a 
 
 I am interested in the intersection of Machine Learning and Deep Learning for Healthcare Applications.
 Currently, I am conducting research on Epileptic Seizures with applications to Logistic Regression and Machine Learning 
-through Google & the University of California, San Diego's ExploreCSR [Explore Computer Science] Research Program.
+through *Google* & the *University of California, San Diego's* ExploreCSR [**Explore** **C**omputer **S**cience **R**esearch] Program.
 
 This Summer, I will be an undergraduate research intern at the Mesirov Lab [University of California, San Diego: School of Medicine].
 Here, I plan to conduct algorithmic research on Cancer Genomics.
