@@ -1,6 +1,6 @@
 title: Jonathan Zamora
 url: "https://jonzamora.dev"
-baseurl: "/about/"
+baseurl: ""
 
 # Build settings
 remote_theme: ankitsultana/researcher@gem 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/about/"
+   link: "/"
  - name: "Resume"
    link: "jonathan_zamora_cs_resume.pdf"
  - name: "Contact"
