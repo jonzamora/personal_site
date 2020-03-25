@@ -12,5 +12,4 @@ Let's connect! Feel free to connect with me through the media outlets below:
 
 ## Social
 
-1. [LinkedIn](#)
-2. [Twitter](#)
+1. [LinkedIn](https://linkedin.com/in/jonzamora18)

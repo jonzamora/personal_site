@@ -1,0 +1,136 @@
+I"�<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="profile_photo.jpg" /></p>
+
+<p>Hello! I am a second-year student pursuing a <em>[B.S. in Computer Science]</em> and a <em>[B.S. in Mathematics-Probability and Statistics]</em> at {TBD}.</p>
+
+<h2 id="research-interests">Research Interests</h2>
+
+<p>I am interested in the intersection of Machine Learning and Deep Learning for Healthcare Applications.
+Currently, I am conducting research on Epileptic Seizures with applications to Logistic Regression and Machine Learning 
+through Google &amp; the University of California, San Diego’s ExploreCSR [Explore Computer Science] Research Program.</p>
+
+<p>This Summer, I will be an undergraduate research intern at the Mesirov Lab [University of California, San Diego: School of Medicine].
+Here, I plan to conduct algorithmic research on Cancer Genomics.</p>
+<h2 id="computer-science-experiences">Computer Science Experiences</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[1] Computer Science and Engineering Department</td>
+      <td> </td>
+      <td>UCSD CSE</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Undergraduate Computer Science Researcher, Google ExploreCSR</strong> January 2020 - Present</p>
+
+<p>● Develop Machine Learning solutions for Epileptic Seizure Detection through Logistic
+Regression &amp; Neural Networks</p>
+
+<p>● Present a professional poster-board at a CSE Research Symposium with detailed research
+findings</p>
+
+<p>● Develop strong relationships with CSE professionals from Google and a Ph.D. Mentor</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[2] Computer Science/Information Systems Lab</td>
+      <td> </td>
+      <td>Grossmont College</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Computer Science Tutor</strong> August 2019 - Present
+● Assist students in the Grossmont CSIS Lab through my knowledge of programming
+● Develop Computer Science and Engineering projects with students
+● Current knowledge consists of Java, C++, and Python</p>
+
+<h2 id="awards">Awards</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Award Title</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5th in Nation - Database Design &amp; Applications</td>
+      <td>FBLA National Leadership Conference (2018)</td>
+    </tr>
+    <tr>
+      <td>8th in Nation - Computer Applications</td>
+      <td>FBLA National Leadership Conference (2017)</td>
+    </tr>
+    <tr>
+      <td>1st in State - Database Design &amp; Applications</td>
+      <td>CA FBLA State Leadership Conference (2018)</td>
+    </tr>
+    <tr>
+      <td>1st in State - Spreadsheet Applications</td>
+      <td>CA FBLA State Leadership Conference (2018)</td>
+    </tr>
+    <tr>
+      <td>Qualcomm Diversity Scholarship</td>
+      <td>UCSD Society of Hispanic Professional Engineers (2018)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>KEY:</strong></p>
+
+<p>FBLA = <strong>F</strong>uture <strong>B</strong>usiness <strong>L</strong>eaders of <strong>A</strong>merica</p>
+
+<p>UCSD = <strong>U</strong>niversity of <strong>C</strong>alifornia, <strong>S</strong>an <strong>D</strong>iego</p>
+
+<h2 id="skills">Skills</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Programming Skills</th>
+      <th>Software Tools</th>
+      <th>Certificates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>ROS</td>
+      <td>Intermediate Python for Data Science [DataCamp]</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>Linux</td>
+      <td>Python Data Science Toolbox [DataCamp]</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Jupyter Notebooks</td>
+      <td>Programming Foundations: Object-Oriented Design &amp; Algorithms [LinkedIn Learning]</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>VS Code</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>XCode</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>x86-64 Assembly</td>
+      <td>IntelliJ IDEA</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+:ET
