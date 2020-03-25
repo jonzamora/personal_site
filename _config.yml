@@ -1,5 +1,6 @@
 title: Jonathan Zamora
-baseurl: "/personal_site"
+url: "https://jonzamora.dev"
+baseurl: "/about"
 markdown: kramdown
 
 # Build settings
@@ -16,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/personal_site/"
+   link: "/about/"
  - name: "Resume"
    link: "jonathan_zamora_cs_resume.pdf"
  - name: "Contact"
