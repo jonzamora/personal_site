@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## About Me
+## About Me 💭
 
 <img class="profile-picture" src="profile_photo.jpg">
 
 Hello! I am a second-year student pursuing a *[B.S. in Computer Science]* and a *[B.S. in Mathematics-Probability and Statistics]* at {TBD}.
 
-## Research Interests
+## Research Interests 🏥 💻
 
 I am interested in the intersection of Machine Learning and Deep Learning for Healthcare Applications.
 Currently, I am conducting research on Epileptic Seizures with applications to Logistic Regression and Machine Learning 
@@ -17,11 +17,11 @@ through Google & the University of California, San Diego's ExploreCSR [Explore C
 This Summer, I will be an undergraduate research intern at the Mesirov Lab [University of California, San Diego: School of Medicine].
 Here, I plan to conduct algorithmic research on Cancer Genomics.
 
-## Computer Science Experiences
+## Computer Science Experiences 💡
 
-[1] Computer Science and Engineering Department // UCSD CSE
+**[1]** Computer Science and Engineering Department // UCSD CSE
 
-**Undergraduate Computer Science Researcher, Google ExploreCSR** January 2020 - Present
+**Undergraduate Computer Science Researcher, Google ExploreCSR** 🕵 January 2020 - Present
 
 ● Develop Machine Learning solutions for Epileptic Seizure Detection through Logistic
 Regression & Neural Networks
@@ -33,9 +33,9 @@ findings
 
 ---
 
-[2] Computer Science/Information Systems Lab // Grossmont College
+**[2]** Computer Science/Information Systems Lab // Grossmont College
 
-**Computer Science Tutor** August 2019 - Present
+**Computer Science Tutor** 📚 August 2019 - Present
 
 ● Assist students in the Grossmont CSIS Lab through my knowledge of programming
 
@@ -45,9 +45,9 @@ findings
 
 ---
 
-[3] Computer Science Organization // Grossmont College
+**[3]** Computer Science Organization // Grossmont College
 
-**President** August 2018 - December 2019
+**President** 🤴 August 2018 - December 2019
 
 ● Delivered workshops to 70+ members in topics such as ML / AI, Data Science, and iOS + Web
 Development.
@@ -57,18 +57,18 @@ for members
 
 ---
 
-[4] theCoderSchool North San Diego 
+**[4]** theCoderSchool North San Diego 
 
-**Code Coach** April 2019 - May 2019
+**Code Coach** 👥 April 2019 - May 2019
 
 ● Teach and Mentor Children (Age 7-13) how to Code utilizing Scratch and Python programming
 languages
 
 ---
 
-## Projects
+## Projects 🛠
 
-[1] **Chess AI Game** 
+**[1]** **Chess AI Game** ♟ 🧠
 
 ● Implemented in C++
 
@@ -80,7 +80,7 @@ languages
 
 ---
 
-[2] **Battleship Game**
+**[2]** **Battleship Game** 🚢 
 
 ● Implemented in C++
 
@@ -88,9 +88,9 @@ languages
 
 ● {*Github Link*}
 
-## Awards
+## Awards 🏆
 
-Award Title                                   | Description                                           |
+**Award Title**                               | **Description**                                       |
 ----------------------------------------------|-------------------------------------------------------|
 5th in Nation - Database Design & Applications| FBLA National Leadership Conference (2018)            |
 8th in Nation - Computer Applications         | FBLA National Leadership Conference (2017)            |
@@ -104,15 +104,15 @@ Qualcomm Diversity Scholarship                | UCSD Society of Hispanic Profess
 
 **UCSD** = **U**niversity of **C**alifornia, **S**an **D**iego
 
-## Skills
+## Skills 🤹
 
-Programming Skills   | Software Tools    | Certificates
----------------------|-------------------|---------------------------------------------------------------------------------
-Python               | ROS               | Intermediate Python for Data Science [DataCamp]
-C++                  | Linux             | Python Data Science Toolbox [DataCamp]
-C                    | Jupyter Notebooks | Programming Foundations: Object-Oriented Design & Algorithms [LinkedIn Learning]
-Java                 | VS Code           |
-SQL                  | XCode             |
-x86-64 Assembly      | IntelliJ IDEA     |
+**Programming Skills**   | **Software Tools**    | **Certificates**
+-------------------------|-----------------------|---------------------------------------------------------------------------------
+Python                   | ROS                   | Intermediate Python for Data Science [DataCamp]
+C++                      | Linux                 | Python Data Science Toolbox [DataCamp]
+C                        | Jupyter Notebooks     | Programming Foundations: Object-Oriented Design & Algorithms [LinkedIn Learning]
+Java                     | VS Code               |
+SQL                      | XCode                 |
+x86-64 Assembly          | IntelliJ IDEA         |
 
 ---

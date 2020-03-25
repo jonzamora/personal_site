@@ -1,6 +1,7 @@
 title: Jonathan Zamora
 url: "https://jonzamora.dev"
 baseurl: ""
+favicon: "favicon.ico"
 
 # Build settings
 remote_theme: ankitsultana/researcher@gem 
@@ -8,8 +9,8 @@ markdown: kramdown
 ins_logo: "./code.gif"
 
 footer: yes
-footer_url: "https://github.com/jonzamora18"
-footer_text: "Page design by Jonathan Zamora"
+footer_url: "https://github.com/ankitsultana"
+footer_text: "This guy makes a nice website"
 
 sass:
     style: compressed

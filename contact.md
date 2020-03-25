@@ -4,12 +4,12 @@ is_contact: true
 ---
 Let's connect! Feel free to connect with me through the media outlets below:
 
-* Email: [jonzamora18@gmail.com](mailto:jonzamora18@gmail.com)
+* **[Email]** 📧: [jonzamora18@gmail.com](mailto:jonzamora18@gmail.com)
 
-* Phone: [(559) 471-5438](tel:(559)471-5438)
+* **[Phone]** 📱: [(559) 471-5438](tel:(559)471-5438)
 
 ---
 
 ## Social
 
-1. [LinkedIn](https://linkedin.com/in/jonzamora18)
+**[1]** [LinkedIn](https://linkedin.com/in/jonzamora18)
