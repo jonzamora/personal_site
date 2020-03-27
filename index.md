@@ -114,5 +114,3 @@ C                        | Jupyter Notebooks     | Programming Foundations: Obje
 Java                     | VS Code               |
 SQL                      | XCode                 |
 x86-64 Assembly          | IntelliJ IDEA         |
-
----
