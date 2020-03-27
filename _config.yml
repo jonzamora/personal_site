@@ -17,7 +17,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "About Me"
    link: "/"
  - name: "Resume"
    link: "jonathan_zamora_cs_resume.pdf"
