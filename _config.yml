@@ -23,3 +23,5 @@ nav:
    link: "jonathan_zamora_cs_resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Lists"
+   link: "lists"
