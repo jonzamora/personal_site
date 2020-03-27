@@ -40,6 +40,6 @@ layout: default
 - [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?crid=223O5OTFGY0TP&keywords=the+c+programming+language+2nd+edition&qid=1585265779&sprefix=c+programming+2n%2Caps%2C306&sr=8-1){:target="_blank"}
 *, B. Kernighan, D. Ritchie*
 
-> *Don't be afraid to try something unconventional. You often learn the most by immersing yourself in all that you don't know*
+> *Don't be afraid to try something unconventional. You often learn the most by immersing yourself in all that you don't know.*
 
 *- My best advice to the lifelong learners out there*
