@@ -6,7 +6,7 @@ layout: default
 
 Here are some of the courses I have taken:
 
-### Computer Science 🖥
+### Computer Science 💻
 
 - Assembly Language & Machine Architecture
 

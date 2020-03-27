@@ -23,7 +23,7 @@ layout: default
 
 ---
 
-**[2]** **_Books I recommend for  { budding programmers } 🖱:_**
+**[2]** **_Books I recommend for  { budding programmers } 💻:_**
 
 - [Python Crash Course](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B07J4521M3/ref=sr_1_3?keywords=python+crash+course&qid=1585264968&sr=8-3){:target="_blank"}
 *, E. Matthes*
