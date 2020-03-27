@@ -105,7 +105,7 @@ layout: default
 
 ---
 
-**[7]** **_{ Deep Learning, Reinforcement Learning, and Artificial Inteligence }_** 🧠
+**[7]** **_{ Deep Learning, Reinforcement Learning, and Artificial Intelligence }_** 🧠
 
 - [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley-dp-0135116694/dp/0135116694/ref=mt_paperback?_encoding=UTF8&me=&qid=1585274342){:target="_blank"}
 *, J. Krohn et al.*
