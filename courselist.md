@@ -44,7 +44,7 @@ Here are some of the courses I have taken:
 
 - Light, Optics, and Modern Physics
 
-- Electricty, Magnetism, and Heat
+- Electricity, Magnetism, and Heat
 
 - Mechanics of Solids
 
