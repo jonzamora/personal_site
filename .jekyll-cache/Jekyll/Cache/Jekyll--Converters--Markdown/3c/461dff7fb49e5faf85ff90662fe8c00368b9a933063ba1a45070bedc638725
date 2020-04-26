@@ -1,23 +1,38 @@
-I"B<h2 id="about-me-">About Me 💭</h2>
+I"\<h2 id="about-me-">About Me 💭</h2>
 
 <p><img class="profile-picture" src="profile_photo.jpg" /></p>
 
-<p>Hello! I am a second-year student pursuing a <em>[B.S. in Computer Science]</em> and a <em>[B.S. in Mathematics-Probability and Statistics]</em> at {TBD}.</p>
+<p>Hello!</p>
 
-<h2 id="research-interests--">Research Interests 🏥 💻</h2>
+<p>My name is Jonathan, and it is my pleasure to welcome you to my personal website.</p>
 
-<p>I am interested in the intersection of Machine Learning and Deep Learning for Healthcare Applications.
-Currently, I am conducting research on Epileptic Seizures with applications to Logistic Regression and Machine Learning 
-through <em>Google</em> &amp; the <em>University of California, San Diego’s</em> ExploreCSR [<strong>Explore</strong> <strong>C</strong>omputer <strong>S</strong>cience <strong>R</strong>esearch] Program.</p>
+<p>Here are some quick facts about me:</p>
+<ul>
+  <li>Pursuing a <strong>Bachelor of Science - BS, in Computer Science</strong> 🖥</li>
+  <li>Incoming student at the <strong>University of California, San Diego</strong> 🔱</li>
+</ul>
 
-<p>This Summer, I will be an undergraduate research intern at the Mesirov Lab [University of California, San Diego: School of Medicine].
-Here, I plan to conduct algorithmic research on Cancer Genomics.</p>
+<h2 id="research-interests-️">Research Interests 🕵🏻‍♂️</h2>
+
+<p>I am interested in the intersection of Machine Learning and Deep Learning for Healthcare Applications 🏥 💻</p>
+
+<p><em>Currently:</em></p>
+<ul>
+  <li>I am conducting research on Epileptic Seizures with applications to Logistic Regression and Machine Learning 
+through <em>Google</em> &amp; the <em>University of California, San Diego’s</em> ExploreCSR [<strong>Explore</strong> <strong>C</strong>omputer <strong>S</strong>cience <strong>R</strong>esearch] Program.</li>
+</ul>
+
+<p><em>This Summer:</em></p>
+<ul>
+  <li>I will be an undergraduate research intern at the Mesirov Lab [University of California, San Diego: School of Medicine].
+Here, I plan to conduct algorithmic research on Cancer Genomics.</li>
+</ul>
 
 <h2 id="computer-science-experiences-">Computer Science Experiences 💡</h2>
 
 <p><strong>[1]</strong> Computer Science and Engineering Department // UCSD CSE</p>
 
-<p><strong>Undergraduate Computer Science Researcher, Google ExploreCSR</strong> 🕵 January 2020 - Present</p>
+<p><strong>Undergraduate Computer Science Researcher, Google ExploreCSR</strong> 🕵🏻‍♂️ January 2020 - Present</p>
 
 <p>● Develop Machine Learning solutions for Epileptic Seizure Detection through Logistic
 Regression &amp; Neural Networks</p>
