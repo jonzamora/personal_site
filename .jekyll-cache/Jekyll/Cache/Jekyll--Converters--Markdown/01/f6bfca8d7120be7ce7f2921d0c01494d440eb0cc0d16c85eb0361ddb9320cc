@@ -1,0 +1,196 @@
+I"�<h2 id="about-me-">About Me 💭</h2>
+
+<h3 id="research-interests-️">Research Interests 🕵🏻‍♂️</h3>
+
+<p>I am interested in the intersection of Machine Learning and Deep Learning for Healthcare Applications 🏥 💻</p>
+
+<details>
+    <summary><b>Currently:</b></summary>
+    <br />
+    <ul>
+        <li>I am conducting supervised <b>Machine Learning research</b> on Epileptic Seizure Detection</li>
+        <li>Sponsored through <b>Google</b> &amp; the <b>University of California, San Diego's</b> ExploreCSR Program</li>
+        <li>ExploreCSR = [<b>E</b>xplore <b>C</b>omputer <b>S</b>cience <b>R</b>esearch]</li>
+    </ul>
+</details>
+<hr />
+<details>
+    <summary><b>This Summer:</b></summary>
+        <br />
+        <ul>
+            <li>I will be an <b>Undergraduate Research Intern</b> at the Mesirov Lab</li>
+            <li>@ [University of California, San Diego: School of Medicine]</li>
+            <li>Here, I plan to conduct algorithmic research on Cancer Genomics</li>
+        </ul>
+</details>
+<hr />
+
+<h3 id="computer-science-experiences-">Computer Science Experiences 💡</h3>
+
+<details>
+    <summary><b>Undergraduate Computer Science Researcher, Google ExploreCSR</b> 🕵🏻‍♂️</summary>
+        <br />
+        <i>January 2020 - Present</i>
+        <br />
+        <i>Computer Science and Engineering Department @ UC San Diego</i>
+        <ul>
+            <li>Develop Machine Learning solutions for Epileptic Seizure Detection through Logistic Regression &amp; Neural Networks</li>
+            <li>Present a professional poster-board at a CSE Research Symposium with detailed research findings</li>
+            <li>Develop strong relationships with CSE professionals from Google and a Ph.D. Mentor</li>
+        </ul>
+</details>
+
+<hr />
+
+<details>
+    <summary><b>Computer Science Tutor</b> 📚</summary>
+        <br />
+        <i>August 2019 - Present</i>
+        <br />
+        <i>Computer Science and Information Systems Lab @ Grossmont College</i>
+        <ul>
+            <li>Assist students in the Grossmont CSIS Lab through my knowledge of programming</li>
+            <li>Develop Computer Science and Engineering projects with students</li>
+            <li>Current knowledge consists of Java, C++, and Python</li>
+        </ul>
+</details>
+
+<hr />
+
+<details>
+    <summary><b>President, Computer Science Organization</b> 👨🏻‍💻</summary>
+        <br />
+        <i>August 2018 - December 2019</i>
+        <br />
+        <i>Computer Science Organization @ Grossmont College</i>
+        <ul>
+            <li>Delivered workshops to 70+ members in topics such as ML / AI, Data Science, and iOS + Web Development</li>
+            <li>Work with Executive Board to arrange professional, technical, and networking opportunities for members</li>
+        </ul>
+</details>
+
+<hr />
+
+<details>
+    <summary><b>Code Coach</b> 👥</summary>
+        <br />
+        <i>April 2019 - May 2019</i>
+        <br />
+        <i>theCoderSchool North San Diego</i>
+        <ul>
+            <li>Teach and Mentor Children (Age 7-13) how to Code utilizing Scratch and Python programming languages</li>
+        </ul>
+</details>
+
+<hr />
+
+<h3 id="projects-">Projects 🛠</h3>
+
+<details>
+    <summary><b>Chess AI Game</b> ♟ 🧠</summary>
+        <ul>
+            <li>Implemented in C++</li>
+            <li>Utilized Minimax algorithm for Opponent AI</li>
+            <li>3 difficulty levels</li>
+            <li>{<i>Github Link</i>}</li>
+        </ul>
+</details>
+
+<hr />
+
+<details>
+    <summary><b>Battleship Game</b> 🚢</summary>
+        <ul>
+            <li>Implemented in C++</li>
+            <li>2-Player Battleship Game for Console Window </li>
+            <li>{<i>Github Link</i>}</li>
+        </ul>
+</details>
+
+<hr />
+
+<h3 id="awards-">Awards 🏆</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Award Title</strong></th>
+      <th><strong>Description</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5th in Nation - Database Design &amp; Applications</td>
+      <td>FBLA National Leadership Conference (2018)</td>
+    </tr>
+    <tr>
+      <td>8th in Nation - Computer Applications</td>
+      <td>FBLA National Leadership Conference (2017)</td>
+    </tr>
+    <tr>
+      <td>1st in State - Database Design &amp; Applications</td>
+      <td>CA FBLA State Leadership Conference (2018)</td>
+    </tr>
+    <tr>
+      <td>1st in State - Spreadsheet Applications</td>
+      <td>CA FBLA State Leadership Conference (2018)</td>
+    </tr>
+    <tr>
+      <td>Qualcomm Diversity Scholarship</td>
+      <td>UCSD Society of Hispanic Professional Engineers (2018)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>KEY:</strong></p>
+
+<p><strong>FBLA</strong> = <strong>F</strong>uture <strong>B</strong>usiness <strong>L</strong>eaders of <strong>A</strong>merica</p>
+
+<p><strong>UCSD</strong> = <strong>U</strong>niversity of <strong>C</strong>alifornia, <strong>S</strong>an <strong>D</strong>iego</p>
+
+<hr />
+
+<h3 id="skills-️">Skills 🤹🏻‍♂️</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Programming Skills</strong></th>
+      <th><strong>Software Tools</strong></th>
+      <th><strong>Certificates</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>ROS</td>
+      <td>Intermediate Python for Data Science [DataCamp]</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>Linux</td>
+      <td>Python Data Science Toolbox [DataCamp]</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Jupyter Notebooks</td>
+      <td>Programming Foundations: Object-Oriented Design &amp; Algorithms [LinkedIn Learning]</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>VS Code</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>XCode</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>x86-64 Assembly</td>
+      <td>IntelliJ IDEA</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET

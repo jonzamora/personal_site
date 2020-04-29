@@ -17,11 +17,13 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About Me"
+ - name: "Home"
    link: "/"
+ - name: "About Me"
+   link: "aboutme"
  - name: "Resume"
    link: "jonathan_zamora_cs_resume.pdf"
- - name: "Contact"
-   link: "contact"
  - name: "Lists"
    link: "lists"
+ - name: "Contact"
+   link: "contact"
