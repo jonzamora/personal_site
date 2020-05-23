@@ -26,8 +26,6 @@ Here are some of the courses I have taken:
 
 ### Mathematics 📐
 
-- Differential Equations
-
 - Linear Algebra
 
 - Multivariable Calculus
