@@ -1,3 +1,3 @@
 # Personal Website
 
-NOTE: Last Updated May 2020
+NOTE: Last Updated September 2020
