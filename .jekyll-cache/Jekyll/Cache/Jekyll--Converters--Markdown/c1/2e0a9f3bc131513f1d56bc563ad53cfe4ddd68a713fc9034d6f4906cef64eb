@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<img class="profile-picture" src="profile_photo.jpg">
+I"8<p><img class="profile-picture" src="profile_photo.jpg" /></p>
 
 <p>
   I'm Jonathan Zamora, an undergraduate student at UC San Diego where I study Computer Science
@@ -17,8 +13,9 @@ layout: default
 Here is my <a href="jonathan_zamora_cs_resume.pdf" target="_blank">CV</a>
 </p>
 
-### Contact
+<h3 id="contact">Contact</h3>
 
-[E-Mail](mailto:jzamoraa@ucsd.edu) 
+<p><a href="mailto:jzamoraa@ucsd.edu">E-Mail</a></p>
 
-<a href = "https://www.linkedin.com/in/jonzamora18/" target = "_blank">LinkedIn</a>
+<p><a href="https://www.linkedin.com/in/jonzamora18/" target="_blank">LinkedIn</a></p>
+:ET
