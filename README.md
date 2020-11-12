@@ -1,3 +1,5 @@
-# Personal Website
+# Personal Website 🖥
 
-NOTE: Last Updated September 2020
+Here's a link to my site -> [Link](https://jonzamora.dev)
+
+Last Updated: November 2020
