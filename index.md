@@ -14,7 +14,7 @@ layout: default
 </p>
 
 <p>
-Here is my <a href="jonathan_zamora_cs_resume.pdf" target="_blank">CV</a>
+Here is my <a href="Jonathan-Zamora-Resume.pdf" target="_blank">Resume</a>
 </p>
 
 ### Contact

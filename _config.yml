@@ -19,5 +19,5 @@ sass:
 nav:
  - name: "Home"
    link: "/"
- - name: "CV"
-   link: "jonathan_zamora_cs_resume.pdf"
+ - name: "Resume"
+   link: "Jonathan-Zamora-Resume.pdf"
