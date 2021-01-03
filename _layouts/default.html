@@ -64,11 +64,11 @@
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
 
-            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left noHover">{{ site.title }}</a>
 
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
-                    {% if x.name == "CV" %}
+                    {% if x.name == "Resume" %}
                         <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
                         <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
@@ -93,9 +93,9 @@
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: right; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" target="_blank" style="color: #1e5262"><small>{{ site.footer_text }}</small></a>
+                    <a href="{{ site.footer_url }}" target="_blank"><small>{{ site.footer_text }}</small></a>
                     </p>
-                    <p style="text-align: right; margin-bottom: 10px;"><small>Last Updated: December 2020</small></p>
+                    <p style="text-align: right; margin-bottom: 10px;"><small>Last Updated: January 2021</small></p>
                 {% endif %}
             </div>
     </div>
