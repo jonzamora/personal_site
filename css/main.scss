@@ -16,7 +16,9 @@ body {
 }
 
 .no-wrap-text {
-    overflow: hidden;
+    // overflow: hidden;
+    text-align: left;
+    line-height: 1.5;
   }
 
 .noHover {
@@ -238,7 +240,7 @@ hr {
     height: 175px;
     width: 175px;
     position: relative;
-    margin: -10px 0 0 15px;
+    margin: -10px 0 5px 15px; // top right bottom left
     float: right;
     border-radius: 50%
 
@@ -249,9 +251,12 @@ p .content .profile-picture {
     margin: 0
 }
 
-@media (max-width: 480px) {
-    .content .profile-picture img {
-        margin-top: -5px
+@media screen and (max-width: 480px) {
+    .content .profile-picture {
+        margin-top: -5px;
+        height: 50%;
+        width: 50%;
+        margin: -10px 0 10px auto; // top right bottom left
     }
 }
 
